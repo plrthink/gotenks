@@ -1,0 +1,6 @@
+[submodule "goten"]
+	path = goten
+	url = git@github.com:plrthink/goten.git
+[submodule "trunks"]
+	path = trunks
+	url = git@github.com:plrthink/trunks.git
